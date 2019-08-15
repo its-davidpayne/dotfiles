@@ -1,0 +1,6 @@
+alias l="ls -la"
+alias ld="ls -ld */"
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias cdd="cd ~/Dropbox/projects"
